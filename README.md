@@ -12,9 +12,9 @@ On my GitHub, I upload code and projects that I work on at KTH and in my spare t
 
 *Note regarding private projects:* Some of my projects within, for example, embedded systems are examining components of courses at KTH. To comply with the university's guidelines on academic integrity, these repositories are kept private. Below you will find my public projects:
 
-### Project: The School Database
+### Project: Databasen
 A project written in SQL to create a database for a school, including staff, courses, academic periods, etc.
-Link:
+Link: https://github.com/h-persson/databasen.git
 
 ## Contact
 - **LinkedIn:** www.linkedin.com/in/hugo-persson-a12a5439a
